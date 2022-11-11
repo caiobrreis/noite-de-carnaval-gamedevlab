@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain_Grorund
+    uniqueID: 3794738715
+    locked: 0
+  - name: Terrain_OverGround
+    uniqueID: 993511255
+    locked: 0
+  - name: Terrain_Collision
+    uniqueID: 2264551083
+    locked: 0
+  - name: OverTerrainBehindEntities
+    uniqueID: 1790547079
+    locked: 0
+  - name: Entities
+    uniqueID: 3048408167
+    locked: 0
+  - name: Terrain_OverEntities
+    uniqueID: 4128826503
+    locked: 0
+  - name: BehindUI
+    uniqueID: 3684798617
+    locked: 0
+  - name: UI
+    uniqueID: 2288317631
+    locked: 0
